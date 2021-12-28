@@ -48,7 +48,7 @@ EHC2 -> EH02 | USB rename
 Kext | Description
 --- | --- |
 RealtekRTL8111.kext | Ethernet Driver
-USBMapLegacy.kext |  [USB Mapping](https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html "USB Mapping")
+USBMapLegacy.kext |  *[USB Mapping](https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html "USB Mapping")*
 
 ## Directories
 ```
