@@ -1,5 +1,6 @@
 ## Opencore Config for Intel SandyBridge + NVIDIA GeForce 210
 ### Tested on macOS Mojave 10.14 & Catalina 10.15
+![](https://github.com/dhimasroby/Opencore-Config-SandyBridge-GeForce-210/blob/b745c81530ac2ec56393329078526f9815db9b6a/Screen%20Shot%202021-12-29%20at%2022.06.49.png)
 #### Overview:
 &radic;  NVIDIA GeForce 210 Working [ [Legacy Video Patch](https://github.com/chris1111/Legacy-Video-patch "Legacy Video Patch") ]<br>
 &radic;  Audio + Mic<br>
